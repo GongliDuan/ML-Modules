@@ -6,6 +6,8 @@ In every file, there would be one algorithm fiinished by Python, in Jupyter Note
 
 And the following is my plan, the modules are including: **Linear Regression, Logistic Regression, K-nearest Neighbour, Anomaly Detection, Principle Component Analysis, Recommender System, K-Means, Neural Networks, and maybe Decision Tree(TBD).** After I finished the theory and code part, I will make a summary to show how to use these with real data, and we will see their performance. Everyone could try to use them any time, all codes have been tested before you can see them.
 
+And this repository needs to special thanks to [Andrew Ng on Coursera](https://www.coursera.org/learn/machine-learning) and my good friend [Feifei Yu](https://github.com/ffyu/Build-Model-from-Scratch), I got a lot of help form them.
+
 For any questions or suggestions, you can find me here:
 duangongli@163.com
 
